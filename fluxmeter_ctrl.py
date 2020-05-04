@@ -3,7 +3,7 @@ Hyperfine Research 2020
 Module to control the fluxmeter
 
 Author: Zhiyao Feng
-Date: 22 March 2020567
+Date: 22 March 2020
 '''
 import serial
 
